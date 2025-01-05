@@ -4,7 +4,7 @@ This repository contains my solutions to the popular [Advent of Code](https://ad
 
 ## Running the code
 
-The code is writeen in C#. The repository contains a Visual Studio 2022 solution file, with .NET 8 console programs for every day.
+The code is written in C#. The repository contains a Visual Studio 2022 solution file, with .NET 8 console programs for every day.
 For running these projects you have to:
 - Sign up at [Advent of Code](https://adventofcode.com/) to get access to the puzzle text and and the puzzle input. Please note that for every AoC user, the puzzle input is different.
 - Get your puzzle input for the corresponding day and paste it into the (currently empty file) ``data/input.txt`` of the project sub-folder.
