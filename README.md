@@ -1,6 +1,6 @@
 # Advent Of Code 2024
 
-This repository contains my solutions to the popular [Advent of Code](https://adventofcode.com/) coding competition for the year 2024. You can use the contained code and comments as a help für solving the tasks yourself.
+This repository contains my solutions to the popular [Advent of Code](https://adventofcode.com/) coding competition for the year 2024. You can use the contained code and comments as a help for solving the tasks yourself.
 
 ## Running the code
 
@@ -18,4 +18,6 @@ I added some comments to explain how the solutions work.
 This code is licensed unter the MIT license, see the file 'License' for details.
 
 ## Disclaimer
-Advent of Code is a registered trademark in the United States. The design elements, language, styles, and concept of Advent of Code are all the sole property of Advent of Code and may not be replicated or used by any other person or entity without express written consent of Advent of Code. Copyright 2015-2024 Advent of Code. All rights reserved.
+This repository contains my personal solutions to the Advent of Code puzzles. I am not the author of Advent of Code, nor am I affiliated with the competition in any way. All puzzle descriptions, inputs, and the Advent of Code concept are created by Eric Wastl.
+
+Please support Advent of Code by visiting the official website at [adventofcode.com](https://adventofcode.com/).
